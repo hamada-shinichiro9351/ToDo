@@ -1,0 +1,26 @@
+{
+  "short_name": "Todo管理アプリ",
+  "name": "🔥 Todo管理アプリ - やる気がみなぎるタスク管理",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff6b35",
+  "background_color": "#ff9a9e",
+  "description": "やる気がみなぎるTodo管理アプリ - タスクを整理して、生産性を向上させましょう"
+}
